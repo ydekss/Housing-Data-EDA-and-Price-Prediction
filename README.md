@@ -60,7 +60,7 @@ The data has following features and variables:
 After fitting both **Decision Tree Regressor**  and **Linear Regressor** and comparing their accuracy by checking their MSE, RMSE and R quared score. It was observed that Decision Tree Regressor predicts the price more accurately that Linear Regressor.
 
 To take a look at the models, feel freeto look at the `ipnyb` file to explore more.
+![This “thank you speech” is a must read! | PlanetSpark](https://lh4.googleusercontent.com/wZCVtsFnGRC6B_0nyNdJeNY5TKM2LWF3JjCGQjmqG-3HBd7gReXAsTXXpAoGKQFfU_oAFr6GsSObY2SOIsHPZ8zCdKEM4TUfWVqf4Q9mQVvaV3kZ7fdrgmG61JRrMEWXnU1aZ2ukTaC4NYKpUExE_b9TZw_C7qVYXP2T78rkqbYe271clci6L0zPMO-41w)
 
-<div align="center">  <img src="https://www.crownconnect.com/assets/ThankYou.jpg">  </div>
 
 
